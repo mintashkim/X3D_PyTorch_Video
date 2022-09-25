@@ -1,4 +1,4 @@
-# pytorchvideo_x3d
+# PyTorch Video X3D
 
 Extract 3d convolution based feature from video with pytorchvideo i3d and x3d librarys.
 
